@@ -1,3 +1,4 @@
 #!/usr/bin/python3
-98 Battery street
+number = 98
+print(f"{number:d} Battery street")
 
